@@ -1,0 +1,6 @@
+{
+    "name": "@ryosuke84/boid",
+    "version": "1.0.0",
+    "repository": "ryosuke84/boid",
+    "main": "boid.js"
+}
